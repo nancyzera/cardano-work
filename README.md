@@ -8,7 +8,7 @@ validator my_first_validator {
     True
   }
 }
-```
+
 
 ## Building
 
